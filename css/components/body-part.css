@@ -1,0 +1,38 @@
+.body-part h2 {
+  text-align: center;
+  color: rgba(201, 87, 87, 0.704);
+}
+.center-cards {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card{
+  background-color: white;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  border-radius: 2px;
+  padding: 30px;
+  height: 250px;
+  margin: 0 10px;
+  margin-bottom: 50px;
+}
+.card img {
+  width: 100px;
+}
+
+.arrow {
+  margin: 0 auto;
+  width: 90px;
+  display: flex;
+}
+
+.title_body {
+  font-size: 60px;
+  margin-bottom: 0;
+}

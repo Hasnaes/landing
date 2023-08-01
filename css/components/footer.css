@@ -1,0 +1,18 @@
+.footer_all {
+  height: 250px;
+  background-color: rgba(201, 87, 87, 0.704);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer_all h3 {
+  color: white;
+}
+.footer a img {
+  width: 70px;
+}
+
+.footer a {
+  margin: 0 20px;
+}
